@@ -1,0 +1,536 @@
+
+.logo{
+
+     width: 80px;
+     height: 80px;
+}
+nav ul{
+	list-style-type: none; 
+	padding-top: 34px;
+	margin: 0-15px 0  0;
+	float: right;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+    white-space: nowrap;
+}
+nav li{
+	position:relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a{
+
+	background: #45B22A;
+}
+nav a{
+	text-decoration: none;
+	padding: 8px 12px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+nav a: hover{
+	color:#fff;
+}/* Inserta tu codigo aqui */
+.semilla{
+	width: 100%;
+	height: 350px;
+	background-size: 100% 1000px;
+	background-position: 100% -330px;
+	background-image: url("../img/semilla.jpg");/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+	position: relative;
+}
+.fondo{
+	background-color: #E6E6E6;
+	height: 100px;
+	width: 940px;
+
+}
+.txt p{
+	font-family: Times;
+	font-size:10px;
+	position: relative;
+	text-align: center;
+	top:30px;
+	height:65px;
+	width:600px;
+	left:170px;
+}
+.mision{
+	height: 100px;
+	width: 100px;
+	position: relative;
+	top:40px;
+	left:160px;
+}
+.mis h1{
+	font-size:18px;
+	text-align: center;
+	position:relative;
+	top:50px;
+	left:160px;
+	height: 100px;
+	width: 100px;
+}
+.misi p{
+	font-size:12px;
+	text-align: center;
+	top:500px;
+	position:relative;
+	top:-25px;
+	left:70px;
+	height: 300px;
+	width: 300px;
+}
+.metodo{
+	width: 480px;
+	height: 300px;
+	position: relative;
+	top:-250px;
+	left:200px;
+}
+.green{
+	background-image: url("../img/fondo.jpg");
+	width: 480px;
+	height: 300px;
+	top:-250px;
+	left:0px;
+	position: relative;
+}
+.met{
+	position: relative;
+	left:200px;
+	top:20px;
+}
+.me h1{
+	font-size:18px;
+	text-align: center;
+	position:relative;
+	color:white;
+	top:50px;
+}
+.meto p{
+    font-size:12px;
+	text-align: center;
+	position:relative;
+	color:white;
+	top:80px;
+	left:40px;
+	width: 400px;
+	height: 250px;
+}
+.fun h1{
+	font-size: 18px;
+	text-align: center;
+	position:relative;
+	top:-10px;
+	font-family: courier;
+}
+.funci{
+	font-size: 14px;
+	text-align: center;
+	position:relative;
+	top:-200px;
+	font-family: courier;
+}
+.edu{
+	width: 80px;
+	height: 80px;
+	position: relative;
+	top:-140px;
+	left:100px;
+}
+.rel h1{
+	color:#04B431;
+	font-weight: bold;
+	font-size: 16px;
+	top:-130px;
+	left:50px;
+	width: 200px;
+	height: 100px;
+	position:relative;
+	text-align: center;
+}
+.rela p{
+	font-size: 12px;
+	top:-200px;
+	left:20px;
+	width: 250px;
+	height: 100px;
+	position:relative;
+	text-align: center;
+}
+.dis h1{
+	color:#04B431;
+	font-weight: bold;
+	font-size: 16px;
+	top:-170px;
+	left:10px;
+	width: 280px;
+	height: 100px;
+	position:relative;
+	text-align: center;
+}
+.disc p{
+	font-size: 12px;
+	top:-240px;
+	left:20px;
+	width: 280px;
+	height: 100px;
+	position:relative;
+	text-align: center;	
+}
+.ser{
+	top:-180px;
+}
+.mit{
+	top:-710px;
+	left:450px;
+}
+.ig h1{
+	top:-700px;
+	left:400px;	
+}
+.igu p{
+	top:-770px;
+	left:370px;
+}
+.agua{
+	top:-750px;
+	left:450px;
+}
+.equi h1{
+	top:-740px;
+	left:350px;	
+}
+.equid p{
+	top:-810px;
+	left:350px
+}
+.bienestar{
+	top:-1280px;
+	left:750px
+}
+.a h1{
+	top:-1270px;
+	left:690px;	
+}
+.b p{
+	top:-1340px;
+	left:670px;
+}
+.agri{
+	top:-1320px;
+	left:760px;
+}
+.c h1{
+	top:-1310px;
+	left:670px;
+}
+.d p{
+	top:-1380px;
+	left:670px;
+}
+.verde{
+	background-color: #298A08;
+	width: 100%;
+	height: 590px;
+	top:-1380px;
+	background-size: 100% 1000px;
+	background-position: 100% -330px;
+	position: relative;
+	left:30px;
+}
+.imagen{
+	width:350px;
+	height: 250px;
+	position: relative;
+	top:20px;
+	left:50px;
+}
+.pro h1{
+	font-size: 18px;
+	color:white;
+	top:20px;
+	left: 65px;
+	position: relative;
+}
+.incor h2 {
+	color:white;
+	position:relative;
+	top:115px;
+	text-align: center;
+	font-size: 14px;
+}
+.in h4{
+	color:white;
+	position:relative;
+	top:115px;
+	font-size: 12px;
+	text-align: center;
+}
+.onu p{
+	color:white;
+	position:relative;
+	top:130px;
+	right:20px;
+	font-size: 10px;
+	text-align: center;
+}
+.inco h1{
+     top:300px;
+     color:white;
+	position:relative;
+	text-align: center;
+	font-size: 16px;
+}
+.fao h3{
+	color:white;
+	position:relative;
+	top:300px;
+	font-size: 14px;
+	text-align: center;
+}
+.fa p{
+	color:white;
+	position:relative;
+	top:300px;
+	right:20px;
+	font-size: 10px;
+	text-align: center;
+}
+.equipo p{
+	color:green;
+	font-weight: bold;
+	font-size: 12px;
+	position: relative;
+	top:-1350px;
+	left:20px;
+}
+.img{
+	border-radius: 50%;
+	top:-1300px;
+	left:120px;
+	position: relative;
+	height: 200px;
+	width: 200px;
+}
+.lo p{
+	font-weight: bold;
+	font-size: 10px;
+	position: relative;
+	top:-1270px;
+	left:20px;
+	color:black;
+}
+.cam h2{
+	font-weight: bold;
+	font-size: 18px;
+	position: relative;
+	top:-1290px;
+	left:150px;
+	color:black;
+}
+.cami h3{
+	font-weight: bold;
+	font-size: 12px;
+	position: relative;
+	top:-1290px;
+	left:160px;
+	color:black;
+}
+.img3 {
+	left:650px;
+	top:-1630px;
+}
+.gab h2{
+	left:690px;
+	top:-1620px;
+}
+.gaby h3{
+	left:710px;
+	top:-1620px;
+}
+.gabriela p{
+	left:550px;
+	top:-1600px;
+	text-align: center;
+	height: 300px;
+	width: 400px;
+}
+.iconos{
+	width: 30px;
+	height: 30px;
+	top:-1250px;
+	left:170px;
+	position: relative;
+}
+.iconos2{
+	width: 30px;
+	height: 30px;
+	top:-1815px;
+	left:710px;
+	position: relative;
+}
+.fondo2{
+	background-image: url("../img/fondo2.jpg");
+	width: 960px;
+	height: 430px;
+	top:-1780px;
+	left:20px;
+	position: relative;
+}
+.eco{
+	top:30px;
+	left:10px;
+	position: relative;
+}
+.img4{
+	width: 250px;
+	height: 180px;
+	top:35px;
+	left:35px;
+	position: relative;
+}
+.blog p{
+	left:45px;
+	top:30px;
+	position: relative;
+	font-weight: bold;
+}
+.id h1{
+	font-size: 16px;
+    left:65px;
+	top:30px;
+	position: relative;
+}
+.mas h2{
+	font-size: 14px;
+    left:65px;
+	top:30px;
+	position: relative;
+}
+.masc p{
+	font-size: 12px;
+	left:65px;
+	top:30px;
+	position: relative;
+	width: 250px;
+	height: 180px;
+	text-align: left;
+}
+.img5{
+    width: 250px;
+	height: 180px;
+	top:-360px;
+	left:340px;
+	position: relative;
+}
+.fe h1{
+	left: 340px;
+	top:-365px;
+	width: 250px;
+	height: 180px;	
+}
+.fem h2{
+	left: 340px;
+	top:-525px;
+}
+.feme p{
+	left: 340px;
+	top:-525px;
+}
+.img6{
+	top:-590px;
+	left:265px;
+	position: relative;
+}
+.eco2{
+	top:-180px;
+	left:610px;
+	position: relative;
+}
+.gray{
+	background-color: #424242;
+	width: 960px;
+	height: 310px;
+	top:-1780px;
+	background-size: 100% 1000px;
+	background-position: 100% -330px;
+	position: relative;
+	left:20px;
+}
+.margin{
+	border:1px solid white;
+	position: relative;
+	top:50px;
+	left:-280px;
+	width:220px;
+	height: 200px;
+}
+.face p{
+	color:white;
+	font-style: tahoma;
+	font-size: 14px;
+	top:20px;
+	left:20px;
+	position: relative;
+}
+.facebook{
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 130px;
+	left:110px;
+}
+.twitter{
+	position:relative;
+	top:-200px;
+	left:206px;
+}
+.linkedin{
+	position:relative;
+	top:-400px;
+	left:412px;
+}
+.email{
+	position:relative;
+	top:-600px;
+	left:615px;
+}
+.foot p{
+	position: relative;
+	font-size: 14px;
+	top:-2200px;
+	left:-250px;
+}
+.footer h4{
+	position: relative;
+	font-size: 14px;
+	top:-2200px;
+	left:-250px;
+	color:yellow;
+	font-weight: bold;
+}
+.sost p{
+	position: relative;
+	font-size: 14px;
+	top:-2250px;
+	left:450px;
+}
+.correo h4{
+	position: relative;
+	font-size: 12px;
+	top:-2250px;
+	left:448px;
+
+}
+.telefono h6{
+	position: relative;
+	font-size: 12px;
+	top:-2250px;
+	left:505px;
+
+}
